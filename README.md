@@ -1,12 +1,25 @@
 # Vademecum do Ecossistema Jus 9 Tecnologia Jurídica
 
-Versão 0.1 • 28/09/2026 • Estado editorial: RASCUNHO PARA VALIDAÇÃO.
+Versão 0.2 • 28/09/2026 • Estado editorial: RASCUNHO PARA VALIDAÇÃO.
+
+## Decisões do Fundador — 28/09/2026
+
+- Homologação dos estados documentais: Clovis e o Legislador.
+- O auxiliar organiza; não faz leis, homologa, revoga ou promulga normas. É subordinado apenas a Clovis.
+- Relação de abrangência: Universidade do Futuro ⊂ Ecossistema Jus 9 ⊂ Mundo Jus 9.
+- Google Drive: Vademecum do Mundo. GitHub: Vademecum público do Ecossistema. São ambientes distintos, com conjuntos documentais próprios.
+- Ordem de trabalho: organizar primeiro o Google Drive; depois o GitHub.
+- Reunir os originais no Vademecum adequado sempre que viável, preservando ID/link e deixando registro de destino na origem. Quando o documento permanecer fora, manter no Vademecum um apontador com localização e motivo.
+- O Fundador informou que os trabalhos constitucionais continuam em construção. Nenhuma promulgação nova foi informada nesta resposta.
+- Os repositórios estão em transição para a organização Jus-9.
+
+Este bloco registra instruções humanas desta conversa; não constitui lei nova.
 
 ## Finalidade
 
 Oferecer a pessoas e I.As uma entrada confiável para a governança dos componentes institucionalmente vinculados à Jus 9, com prioridade para Charlie Echo. Reunir referências e estados sem substituir fontes, inventar vigência ou transformar propostas em regras.
 
-Este arquivo foi solicitado para a pasta local `vademecum-jus9-tecnologia-juridica`. O remoto configurado é `https://github.com/Jus-9/vademecum-jus9-tecnologia-juridica.git`. Nesta edição, o README foi preparado localmente; não houve commit, push ou deploy.
+Este arquivo foi solicitado para a pasta local `vademecum-jus9-tecnologia-juridica`. O remoto configurado é `https://github.com/Jus-9/vademecum-jus9-tecnologia-juridica.git`. A versão anterior do README foi encontrada no remoto em 28/09/2026, após commit do usuário. Esta atualização permanece local, enquanto a organização se concentra no Drive.
 
 O Vademecum do Mundo tem custódia na pasta Drive indicada pelo Fundador. Detalhes de fontes privadas e inventários brutos ficam fora deste repositório. Este README é uma síntese preparada para revisão de publicação.
 
@@ -106,13 +119,17 @@ A varredura não incluiu leitura integral de PDFs/DOCX/ZIPs, cofres, segredos, a
 5. Construir índice público saneado e catálogo restrito vinculado, evitando cópia de dados privados.
 6. Só após revisão adequada, publicar a versão acordada deste repositório.
 
-## Perguntas em aberto
+## Acesso técnico verificado em 28/09/2026
 
-- Este repositório será público/sanitizado? Qual órgão validará os estados?
-- Qual a ligação formal do auxiliar global com o Mestre e Charlie Echo?
-- Há atos posteriores que mudem o estado da UDF ou promulguem a Constituição Mãe/Echo?
-- A prioridade de aprofundamento é Echo, saneamento geral ou UDF?
-- Qual a relação pretendida entre os repositórios Clovis-Mariano-Costa e Jus-9?
+Atualização em 28/09/2026: o usuário tornou o repositório público. GitHub CLI confirmou PUBLIC e API sem autenticação confirmou private=false.
+
+Os sites podem apresentar links e consumir documentos por uma integração de leitura. As I.As precisam receber o texto ou ter ferramenta de recuperação configurada; acesso de leitura não implica leitura automática, atualização automática ou adoção normativa. Uma integração privada deve autenticar no servidor, sem expor credenciais no navegador.
+
+Referência técnica: https://docs.github.com/en/rest/repos/contents#get-repository-content
 
 Autoria operacional: Codex, auxiliar global nesta tarefa. Autoridade da solicitação: Fundador, no pedido de 28/09/2026. Este arquivo não altera normas nem nomeia agentes.
 
+
+## Critério de admissão atualizado pelo Fundador
+
+Somente leis legitimadas entram no Vademecum. Clovis e Legislador homologam os estados; o auxiliar apenas organiza. Pendências de processo legislativo devem ser encaminhadas sempre à pasta Pedidos Legislativos indicada por Clovis, inclusive para leis do GitHub. A organização começa pelo Drive. Os mapas acima são referências históricas de descoberta, não homologação ou ingresso das normas no acervo.
